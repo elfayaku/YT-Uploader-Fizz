@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Streamlit Uploader",
+  "description": "Aplikasi YouTube Video Uploader bergaya Streamlit menggunakan YouTube Data API v3, lengkap dengan simulator dinamis dan source code Python Streamlit asli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
